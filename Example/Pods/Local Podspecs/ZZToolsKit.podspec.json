@@ -1,0 +1,27 @@
+{
+  "name": "ZZToolsKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZZToolsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LeiZong/ZZToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LeiZong": "leasingzong@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/LeiZong/ZZToolsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZToolsKit/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  }
+}
